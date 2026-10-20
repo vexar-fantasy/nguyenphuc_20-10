@@ -83,7 +83,7 @@ export const recipients: Recipient[] = [
   {
     id: "girl-14",
     name: "Nguyễn Trần Bảo Thi",
-    password: "0906",
+    password: "0106",
     greeting: "Nhân dịp 20/11,toàn thể các bạn nam lớp 10a11 chúc các bạn nữ ngày càng tươi hơn,dễ thương hơn,học tập tốt hơn và ngày càng hạnh phúc hơn.Chúng ta sẽ đồng hành với nhau 1 chặng đường dài nữa nên mong lớp mình sẽ đoàn kết và yêu thương nhau hơn nhé.Love you all"
   },
   {
